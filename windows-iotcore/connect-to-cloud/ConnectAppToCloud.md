@@ -50,4 +50,3 @@ In the New Project dialog that comes up, select **Blank App (Universal Windows) 
 ## Use the Connected Services for Azure IoT Hub to connect to Azure IoT Hub
 
 Follow the instructions from the [Connected Services tool](https://aka.ms/azure-iot-hub-vs-cs-vs-gallery) to connect your project to Azure IoT Hub. The tool will generate two functions, `SendDeviceToCloudMessageAsync` and `ReceiveCloudToDeviceMessageAsync` that you can invoke anywhere in your app. You can modify these functions as you see fit.  
-
